@@ -22,7 +22,8 @@ plt.show()
 ```
 
 ### Results:
-![skill_demand_plot](Images/skill_demand_plot.png)  Bar graph visualizing the salary for the top 3 data roles and their top 5 skills associated with each.
+![skill_demand_plot](Images/skill_demand_plot.png) 
+ Bar graph visualizing the salary for the top 3 data roles and their top 5 skills associated with each.
 
 ### Insights:
 - SQL is the most requested skill for Data Analysts and Data Scientists, with it in over half the job postings for both roles. For Data Engineers, Python is the most sought-after skill, appearing in 68% of job postings.
@@ -50,7 +51,8 @@ plt.show()
 ```
 
 ### Results:
-![skills_trend_plot](Images/Skills_Trend_plot.png)  Bar graph visualizing the trending top skills for data analysts in the US in 2023.
+![skills_trend_plot](Images/Skills_Trend_plot.png)  
+Bar graph visualizing the trending top skills for data analysts in the US in 2023.
 
 ### Insights:
 - SQL remains the most consistently demanded skill throughout the year, although it shows a gradual decrease in demand.
